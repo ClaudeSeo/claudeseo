@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclaudeseo)](https://hits.seeyoufarm.com)
@@ -8,5 +6,5 @@
 
 </div>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=claudeseo&show_icons=true">
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=claudeseo&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=claudeseo&show_icons=true">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=claudeseo&layout=compact" />
